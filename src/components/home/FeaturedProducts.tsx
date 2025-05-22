@@ -9,7 +9,7 @@ const featuredProducts = [
     name: 'Premium Flex Roll',
     description: 'High-quality flex material for durable outdoor banners and signage.',
     price: '₹3,500',
-    image: 'https://images.unsplash.com/photo-1518770660439-4636190af475',
+    image: 'https://images.unsplash.com/photo-1729551610640-e8adee1172e3?q=80&w=2129&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     category: 'flex-rolls',
   },
   {
@@ -17,7 +17,7 @@ const featuredProducts = [
     name: 'Eco-Solvent Ink Set',
     description: 'Vibrant, fast-drying inks compatible with most wide-format printers.',
     price: '₹6,200',
-    image: 'https://images.unsplash.com/photo-1461749280684-dccba630e2f6',
+    image: 'https://media.istockphoto.com/id/671580332/photo/color-ink-tank-and-large-printer-machine-in-factory-for-printing-business.jpg?s=2048x2048&w=is&k=20&c=tR1bJwddrlxYsLCBc6UeZB8Ow0P9Othy5v0Hf4zJvao=',
     category: 'printing-inks',
   },
   {
@@ -25,7 +25,7 @@ const featuredProducts = [
     name: 'Deluxe Standee Kit',
     description: 'Complete roll-up banner stand with carrying case for easy transport.',
     price: '₹2,800',
-    image: 'https://images.unsplash.com/photo-1487887235947-a955ef187fcc',
+    image: 'https://media.istockphoto.com/id/1166161232/photo/white-blank-empty-business-roll-up-and-standee-banner-display-mock-up-template-for-your.jpg?s=2048x2048&w=is&k=20&c=PNbQORkBL9cy_6QqQ0swjiWxEWx3XQCp-sUe3vESJ7Q=',
     category: 'standees-display',
   },
   {
@@ -33,7 +33,7 @@ const featuredProducts = [
     name: 'PVC Sunboard Sheet',
     description: 'Durable 5mm PVC board for indoor and outdoor signage applications.',
     price: '₹450',
-    image: 'https://images.unsplash.com/photo-1473091534298-04dcbce3278c',
+    image: 'https://media.istockphoto.com/id/1987702016/photo/stack-of-white-foam-board-sheets-of-various-thicknesses-displayed-on-a-shelf-in-a-stationery.jpg?s=2048x2048&w=is&k=20&c=qlreTVAneE0-DG-TT28sTp8WdhiFVn8-EcjYAUkbOhM=',
     category: 'sunboard-sheets',
   },
 ];

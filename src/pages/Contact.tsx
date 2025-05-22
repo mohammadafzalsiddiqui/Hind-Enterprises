@@ -71,8 +71,8 @@ const Contact = () => {
                   <div>
                     <h3 className="font-semibold mb-1">Our Location</h3>
                     <p className="text-gray-700">
-                      123 Print Street, Industrial Area<br />
-                      New Delhi, India 110001
+                      60ft Road , Prayagraj<br />
+                      Uttar Pradesh, India 211016
                     </p>
                   </div>
                 </div>
@@ -83,8 +83,8 @@ const Contact = () => {
                   </div>
                   <div>
                     <h3 className="font-semibold mb-1">Phone Number</h3>
-                    <p className="text-gray-700">+91 98765 43210</p>
-                    <p className="text-gray-700">+91 11 2345 6789</p>
+                    <p className="text-gray-700">+91 9450980831</p>
+                    <p className="text-gray-700">+91 7007390165</p>
                   </div>
                 </div>
                 
@@ -94,7 +94,7 @@ const Contact = () => {
                   </div>
                   <div>
                     <h3 className="font-semibold mb-1">Email Address</h3>
-                    <p className="text-gray-700">info@hindenterprises.com</p>
+                    <p className="text-gray-700">mohammadafzalsiddiqui41@gmail.com</p>
                     <p className="text-gray-700">sales@hindenterprises.com</p>
                   </div>
                 </div>

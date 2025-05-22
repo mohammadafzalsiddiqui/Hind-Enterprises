@@ -22,7 +22,7 @@ const About = () => {
           <div>
             <h2 className="heading-lg mb-6">Our Story</h2>
             <p className="text-body mb-4">
-              Founded in 2008, Hind Enterprises began as a small printing supply shop in New Delhi with a vision to provide high-quality printing supplies to local businesses.
+              Founded in 2008, Hind Enterprises began as a small printing supply shop in Prayagraj with a vision to provide high-quality printing supplies to local businesses.
             </p>
             <p className="text-body mb-4">
               As we grew, we recognized the need for reliable custom printing services in the market. In 2012, we expanded our operations to include a full range of printing services, equipped with state-of-the-art printing technology.
